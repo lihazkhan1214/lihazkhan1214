@@ -1,23 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lihaz Khan</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushgarg-dev&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgarg-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushgarg-dev" alt="piyushgarg-dev" /></a> </p>
 
-- 🔭 I’m currently working on *MERN Stack and Cloud Computing*
-
-- 🎥 I create coding tutorial videos on YoutTube at [https://youtube.com/c/piyushgarg1](https://youtube.com/c/piyushgarg1)
-
-- 🌱 I’m currently learning *Amazon Web Services*
-
-- 👨‍💻 All of my projects are available at [https://piyushgarg.dev](https://piyushgarg.dev)
-
-- 📝 I regularly write articles on [https://piyushgarg.dev](https://piyushgarg.dev)
-
-- 💬 Ask me about *Node.js, React, Postgresql, MongoDB Etc.*
-
-- 📫 How to reach me *piyushgarg.dev*
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
