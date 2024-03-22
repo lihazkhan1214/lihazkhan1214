@@ -5,12 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushgarg-dev" alt="piyushgarg-dev" /></a> </p>
 
-- 🔭 I’m currently working on *MERN Stack and Cloud Computing*
+- 🔭 I’m currently working on *MERN Stack and Next js*
 
 
-- 🌱 I’m currently learning *Amazon Web Services*
-
-- 👨‍💻 All of my projects are available at [https://piyushgarg.dev](https://piyushgarg.dev)
+- 🌱 I’m currently learning *Blcokchain with solidity*
 
 
 - 💬 Ask me about *Node.js, React, Postgresql, MongoDB Etc.*
