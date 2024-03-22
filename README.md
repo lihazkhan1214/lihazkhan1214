@@ -13,7 +13,7 @@
 
 - 💬 Ask me about *Node.js, React, Postgresql, MongoDB Etc.*
 
-- 📫 How to reach me *piyushgarg.dev*
+
 
 
 
